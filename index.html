@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZF1V7SCW0B"></script>
 <script>
@@ -30,7 +31,8 @@
   /* Whole document */
   body {
       font-family: "Noto Sans CJK TC", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 14px;
+      font-size: 16px;
+      line-height:22px;
       max-width: 800px;
       margin: auto;
       background: #FFFFFF;
@@ -39,7 +41,7 @@
 
   /* Title of the resume */
   h1 {
-      font-size: 36px;
+      font-size: 40px;
       color: #757575;
       text-align:center;
       margin-bottom:10px;
@@ -104,30 +106,52 @@
 <table>
 <tbody>
 <tr class="odd">
-<td>omegaatt36@gmail.com</td>
-<td style="text-align: right;"><a href="https://github.com/omegaatt36" target="_blank">GitHub</a></td>
+<td style="text-align: left;">高誌鴻</td>
+<td style="text-align: right;"><i class="ti ti-brand-github-filled"></i><a href="https://github.com/omegaatt36" target="_blank">github.com/omegaatt36</a></td>
 </tr>
 <tr class="even">
-<td>New Taipei City, Taiwan</td>
-<td style="text-align: right;"><a href="https://www.omegaatt.com" target="_blank">Blog</a></td>
+<td style="text-align: left;">1997/07/13</td>
+<td style="text-align: right;"><i class="ti ti-mail"></i><a href="mailto://omegaatt36@gmail.com">omegaatt36@gmail.com</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">New Taipei City, Taiwan</td>
+<td style="text-align: right;"><i class="ti ti-article"></i><a href="https://www.omegaatt.com" target="_blank">www.omegaatt.com</a></td>
 </tr>
 </tbody>
 </table>
 <hr />
-<blockquote>
-<p>Raiven is a professional software engineer specializing in Golang.</p>
-</blockquote>
 <h2 id="work-experience">Work Experience</h2>
 <dl>
 <dt>Apr. 2020 - Present</dt>
-<dd><p><strong>Stranity Technology Co,. Ltd.</strong> <em>Backend developer</em></p>
-<p>spin-off</p>
+<dd><p><strong>Stranity Technology Co,. Ltd.</strong> <em>Senior Software developer</em></p>
+<p><em>Golang/Postgresql/Influxdb/Docker/Kubernetes</em></p>
 <ul>
+<li>Designed and built an automated checkout system, reducing the checkout process from two weeks to just one day.</li>
+<li>Established a CRM to assist in expanding customer base and managing accounts.</li>
+<li>Implemented a strategy signal broadcasting system to reduce network bandwidth usage in the server room and enhance system security.</li>
 <li>Designed a Golang monorepo for the backend team and introduced clean architecture.</li>
+<li>Optimized the CI pipeline, reducing backend build and deployment time by 70%.</li>
+<li>Monitored the system and proactively sent notifications to different groups/channels in case of abnormalities, based on different scenarios.</li>
 </ul>
 </dd>
 <dt>Jan. 2019 - Feb. 2020</dt>
-<dd><strong>StarLord Technology Ltd.</strong> <em>Backend developer</em>
+<dd><p><strong>StarLord Technology Co Ltd.</strong> <em>Backend developer</em></p>
+<p><em>PHP/Python3/Mysql/Vuepress</em></p>
+<ul>
+<li>Developed 11+ game backends.</li>
+<li>Established publishing environment and accomplished half-automated scripts that publishing through building and outputting release note.</li>
+<li>Set up a KMS that allows backend developers to focus on document creation without concerning about formatting.</li>
+<li>Conducted end-to-end testing on backends by simulating user flows, planned modularization and packaging processes, making it ready to use out of the box.</li>
+</ul>
+</dd>
+</dl>
+<h2 id="side-project">Side Project</h2>
+<dl>
+<dt><a href="https://github.com/omegaatt36/instagramrobot" target="_blank">instagramrobot</a></dt>
+<dd>Developed a Telegram bot that forwards Instagram media to chatrooms.
+</dd>
+<dt><a href="https://github.com/omegaatt36/pico-bme280" target="_blank">pico-bme280</a></dt>
+<dd>A temperature and humidity exporter based on TinyGo.
 </dd>
 </dl>
 <h2 id="education">Education</h2>
