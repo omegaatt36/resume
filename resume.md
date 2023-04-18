@@ -3,7 +3,7 @@ Raiven Kao
 
 -------------------                 ---------------------
 高誌鴻                                         <i class="ti ti-brand-github-filled"></i>[github.com/omegaatt36](https://github.com/omegaatt36)
-1997/07/13                                    <i class="ti ti-mail"></i>[omegaatt36@gmail.com](mailto://omegaatt36@gmail.com)
+1997-07-13                                    <i class="ti ti-mail"></i>[omegaatt36@gmail.com](mailto://omegaatt36@gmail.com)
 New Taipei City, Taiwan                       <i class="ti ti-article"></i>[www.omegaatt.com](https://www.omegaatt.com)
 -------------------                 ---------------------
 
@@ -12,19 +12,19 @@ New Taipei City, Taiwan                       <i class="ti ti-article"></i>[www.
 Work Experience
 ---------------
 
-Apr. 2020 - Present
+Apr. 2020-Present
 :  **Stranity Technology Co,. Ltd.** _Senior Software developer_
 
     _Golang/Postgresql/Influxdb/Docker/Kubernetes_
 
     - Designed and built an automated checkout system, reducing the checkout process from two weeks to just one day.
     - Established a CRM to assist in expanding customer base and managing accounts.
-    - Implemented a strategy signal broadcasting system to reduce network bandwidth usage in the server room and enhance system security.
+    - To enhance system security and reduce network bandwidth usage, I implemented a strategy signal broadcasting system.
     - Designed a Golang monorepo for the backend team and introduced clean architecture.
     - Optimized the CI pipeline, reducing backend build and deployment time by 70%.
-    - Monitored the system and proactively sent notifications to different groups/channels in case of abnormalities, based on different scenarios.
+    - Monitored the system and set up proactive notifications for different scenarios in case of abnormalities.
 
-Jan. 2019 - Feb. 2020
+Jan. 2019-Feb. 2020
 :   **StarLord Technology Co Ltd.** _Backend developer_
 
     _PHP/Python3/Mysql/Vuepress_
@@ -48,4 +48,5 @@ Education
 ---------
 
 2015-2019
-:   **BSc, Bachelor of Information Management** National Taipei University of Business
+:   **BSc, Bachelor of Information Management** 
+:   National Taipei University of Business
