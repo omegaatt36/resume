@@ -17,8 +17,8 @@ Apr. 2020-Present
 
     _Golang/Postgresql/Influxdb/Docker/Kubernetes_
 
-    - Designed and built an automated checkout system, reducing the checkout process from two weeks to just one day.
-    - Established a CRM to assist in expanding customer base and managing accounts.
+    - Designed and built an automated checkout system, enhancing the checkout flow performance by 2 weeks per month.
+    - Designed and built a CRM cluster assisting with the business model and checkout flow.
     - To enhance system security and reduce network bandwidth usage, I implemented a strategy signal broadcasting system.
     - Designed a Golang monorepo for the backend team and introduced clean architecture.
     - Optimized the CI pipeline, reducing backend build and deployment time by 70%.
