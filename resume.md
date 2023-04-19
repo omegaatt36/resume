@@ -48,5 +48,5 @@ Education
 ---------
 
 2015-2019
-:   **BSc, Bachelor of Information Management** 
+:   **BIM, Bachelor of Information Management** 
 :   National Taipei University of Business
