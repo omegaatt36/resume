@@ -29,7 +29,7 @@ Jan. 2019-Feb. 2020
 
     _PHP/Python3/Mysql/Vuepress_
 
-    - Developed game backends.
+    - Developed game function and architecture of backend.
     - Established publishing environment and accomplished half-automated scripts that publishing through building and outputting release note.
     - Set up a KMS that allows backend developers to focus on document creation without concerning about formatting.
     - Conducted end-to-end testing on backends by simulating user flows, planned modularization and packaging processes, making it ready to use out of the box.
