@@ -12,7 +12,7 @@ New Taipei City, Taiwan                       <i class="ti ti-article"></i>[www.
 Work Experience
 ---------------
 
-Apr. 2020-Present
+Apr. 2020-May. 2023
 :  **Stranity Technology Co,. Ltd.** _Senior Software Engineer_
 
     _Golang/Postgresql/Redis/Influxdb/Docker/Kubernetes_
