@@ -3,7 +3,7 @@ Raiven Kao
 
 -------------------                 ---------------------
 高誌鴻                                         <i class="ti ti-brand-github-filled"></i>[github.com/omegaatt36](https://github.com/omegaatt36)
-1997-07-13                                    <i class="ti ti-mail"></i>[omegaatt36@gmail.com](mailto://omegaatt36@gmail.com)
+1997-07-13                                    <i class="ti ti-mail"></i>[raiven.kao@gmail.com](mailto://raiven.kao@gmail.com)
 New Taipei City, Taiwan                       <i class="ti ti-article"></i>[www.omegaatt.com](https://www.omegaatt.com)
 -------------------                 ---------------------
 
